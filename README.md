@@ -1,4 +1,4 @@
-# Credit Card Financial Analysis Project
+# Credit Card Data Analysis Project
 
 ## 💡 Project Description
 
